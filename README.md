@@ -1,5 +1,6 @@
 # NoteTakerApp
-This is my note taker app for my KU coding bootcamp.
+This is my note taker app for my KU coding bootcamp. I used node.js and express.js inorder to work the back end of my server. We were given starter code for the front-end of our webpage but, we just had to connect it to and write the logic for the back-end. When the server is up and running the user of my application will be greeted with a landing page. Once they click on the "Get Started" button it will redirect the user to a new page where they can create and delete notes. 
+
 
 
 ## User Story
@@ -28,3 +29,9 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
+
+## Video walk though link
+you may have to download the video from google drive but it's there. anyone with the link can view it.
+https://drive.google.com/file/d/1Bbo0dmpkVgfstEZc0NjcSBtgfjGLR0ob/view
+
+## Deployed Heroku link
