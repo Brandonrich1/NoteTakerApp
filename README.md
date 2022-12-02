@@ -35,3 +35,4 @@ you may have to download the video from google drive but it's there. anyone with
 https://drive.google.com/file/d/1Bbo0dmpkVgfstEZc0NjcSBtgfjGLR0ob/view
 
 ## Deployed Heroku link
+https://note-taker-app-2.herokuapp.com/notes
